@@ -4,11 +4,8 @@
 
 ## 1. Making an Expected instance
 
-![Deprecated](https://img.shields.io/badge/status-deprecated-red?style=flat)
-
 #### API
 ```ts
-new Expected<T, E>(value: T | E, success: boolean)
 static Expected.ok<T>(value: T);
 static Expected.fail<E>(value: E);
 ```
@@ -28,8 +25,6 @@ function myFunc(): Expected<void, Error> {
     }
 }
 ```
-
-> **Warning:** This API has been deprecated and removed for type safety. The constructor is now privated. Please don't try to use this.
 
 ## 2. Wrapping a function
 
