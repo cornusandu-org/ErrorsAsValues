@@ -1,6 +1,6 @@
 # Expected
 
-[![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge)](https://github.com/cornusandu-org/ErrorsAsValues) [![NPM Package](https://img.shields.io/badge/npm_package-errorsasvaluests-pink?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/errorsasvaluests) ![](https://img.shields.io/badge/language-typescript-orange?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+[![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge)](https://github.com/cornusandu-org/ErrorsAsValues) [![NPM Package](https://img.shields.io/badge/npm_package-errorsasvaluests-pink?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/errorsasvaluests) ![](https://img.shields.io/badge/language-typescript-orange?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions)
 
 ## 1. Making an Expected instance
 
