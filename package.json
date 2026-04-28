@@ -1,5 +1,5 @@
 {
-  "name": "eav",
+  "name": "errorsasvaluests",
   "version": "1.0.0",
   "description": "Errors-As-Values Error Handling",
   "main": "dist/index.js",
@@ -13,5 +13,8 @@
     "@types/node": "^25.6.0",
     "typescript": "^6.0.3"
   },
-  "type": "module"
+  "type": "module",
+  "imports": {
+    ".": "./dist/index.js"
+  }
 }
