@@ -1,0 +1,17 @@
+{
+  "name": "eav",
+  "version": "1.0.0",
+  "description": "Errors-As-Values Error Handling",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "npx tsc test.ts --ignoreConfig --types node && node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  },
+  "type": "module"
+}
