@@ -1,6 +1,6 @@
 {
   "name": "errorsasvaluests",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Errors-As-Values Error Handling",
   "main": "dist/index.js",
   "scripts": {
